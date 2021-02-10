@@ -1,7 +1,7 @@
 $(function(){
 
 
-  $(".rate-star").rateYo({
+  $('.rate-star').rateYo({
     rating: 5,
     starWidth: "12px",
     readOnly: true
